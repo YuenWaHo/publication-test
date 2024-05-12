@@ -1,9 +1,14 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
+message: "New releases"
 authors:
-- family-names: Yuen-Wa
-  given-names: Ho
-orcid: 0000-0003-1523-112X
-title:YuenWaHo/publication-test: Initial Release
+- family-names: "Yuen-Wa"
+  given-names: "Ho"
+  orcid: "https://orcid.org/0000-0003-1523-112X"
+- family-names: "L"
+  given-names: "Kar"
+  orcid: "https://orcid.org/0000-xxx-0000-0000"
+title: "Data Repository"
 version: 0.1.1
-date-released: 2024-05-12
-                                
+doi: 10.5281/zenodo.11181791
+date-released: 2024-05-18
+url: "https://github.com/YuenWaHo/publication-test"
