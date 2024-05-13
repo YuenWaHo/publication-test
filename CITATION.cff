@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins"
 authors:
   - family-names: "Ho"
-    given-names: "Yuen-Wa"
+    given-names: "Yuen Wa"
     orcid: "https://orcid.org/0000-0003-1523-112X"
     affiliation: "Division of Cetacean Ecology, Cetacea Research Institute, Lantau, Hong Kong; School of Biological Sciences and Swire Institute of Marine Science, University of Hong Kong, Pokfulam, Hong Kong"
   - family-names: "Karczmarski"
@@ -15,7 +15,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-0477-0753"
     affiliation: "School of Marine Sciences, Zhuhai Key Laboratory of Marine Bioresources and Environment, Sun Yat-sen University, Guangzhou, China; Marine Mammal and Marine Bioacoustics Laboratory, Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences, Sanya, Hainan, China"
   - family-names: "Lo"
-    given-names: "Mandy C.Y."
+    given-names: "M.C.Y."
     affiliation: "Marine Life Stranding Response Team, Ocean Park Conservation Foundation Hong Kong, Aberdeen, Hong Kong"
   - family-names: "Wu"
     given-names: "Yuping"
